@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         etNim = findViewById(R.id.etNim);
         etAlamat = findViewById(R.id.etAlamat);
         etKejuruan = findViewById(R.id.etKejuruan);
-            btnInsert = findViewById(R.id.btnInsert);
+        btnInsert = findViewById(R.id.btnInsert);
         recyclerView = findViewById(R.id.recycleView);
         btnDelete = findViewById(R.id.btnDelete);
 
